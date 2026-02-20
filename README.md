@@ -6,7 +6,7 @@ features:
 - "Inter-Service Communication: The microservices communicate with each other using standard protocols, enabling seamless integration and data exchange."
 - "Scalability: The architecture allows for easy scaling of individual microservices based on demand, improving performance and resource utilization."
 - "Fault Isolation:
-- "In the event of a failure in one microservice, the impact is isolated, preventing it from affecting the entire system."
+- "In the event of a failure in one microservice, the impact is isolated, preventing it from affecting the entire system. hello world"
 
 
  
